@@ -1,0 +1,11 @@
+# Default ignored files
+.idea/workspace.xml
+.idea
+target
+compiler.xml
+dbnavigator.xml
+jarRepositories.xml
+misc.xml
+vcs.xml
+TaskScheduler.iml
+
